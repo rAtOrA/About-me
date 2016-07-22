@@ -1,0 +1,35 @@
+body
+{
+	background-color:red;
+}
+#pyos a
+{
+	display:inline;
+	text-align:center;
+	background-color:yellow;
+	color:blue;
+	text-decoration:none;
+}
+#pyos li
+{
+	padding:10px 5px;
+	display:inline;
+	text-align:center;
+	background-color:yellow;
+	color:blue;
+	text-decoration:none;
+}
+ #pyos a:hover
+{
+	background-color:blue;
+	color:black;
+	font-family:Algerian;
+}
+div
+{
+    text-align:center;
+}
+li
+{
+	list-style:none;
+}
